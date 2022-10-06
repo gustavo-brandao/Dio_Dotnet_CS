@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Dio_Dotnet_CS
-build_property.ProjectDir = c:\xampp\htdocs\Dio_Dotnet_CS\
+build_property.RootNamespace = exemplo_fundamentos
+build_property.ProjectDir = C:\xampp\htdocs\Dio_Dotnet_CS\exemplo_fundamentos\

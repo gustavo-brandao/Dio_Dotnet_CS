@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Dio_Dotnet_CS/1.0.0": {
+      "exemplo_fundamentos/1.0.0": {
         "runtime": {
-          "Dio_Dotnet_CS.dll": {}
+          "exemplo_fundamentos.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Dio_Dotnet_CS/1.0.0": {
+    "exemplo_fundamentos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

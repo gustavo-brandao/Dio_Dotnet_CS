@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\Dio_Dotnet_CS.csproj": {}
+    "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\exemplo_fundamentos\\exemplo_fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\Dio_Dotnet_CS.csproj": {
+    "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\exemplo_fundamentos\\exemplo_fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\Dio_Dotnet_CS.csproj",
-        "projectName": "Dio_Dotnet_CS",
-        "projectPath": "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\Dio_Dotnet_CS.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\exemplo_fundamentos\\exemplo_fundamentos.csproj",
+        "projectName": "exemplo_fundamentos",
+        "projectPath": "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\exemplo_fundamentos\\exemplo_fundamentos.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Dio_Dotnet_CS\\exemplo_fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
