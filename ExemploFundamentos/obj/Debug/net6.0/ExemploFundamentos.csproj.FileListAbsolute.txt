@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+C:\xampp\htdocs\Dio_Dotnet_CS\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
